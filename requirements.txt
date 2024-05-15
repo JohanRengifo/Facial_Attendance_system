@@ -1,0 +1,13 @@
+# Librerías esenciales
+opencv-python          # Procesamiento de imágenes y reconocimiento facial
+pandas                 # Manipulación y análisis de datos
+numpy                  # Computación científica (necesario para OpenCV)
+
+# Librerías adicionales
+matplotlib              # Visualización de gráficos y análisis
+scikit-learn           # Algoritmos de aprendizaje automático
+dlib                   # Reconocimiento facial
+face_recognition       # Biblioteca de reconocimiento facial de alto nivel
+
+# Comandos
+# pip install -r requirements.txt
